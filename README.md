@@ -1,1 +1,1 @@
-# WhaleStudio
+# https://ambitsite.github.io/WhaleStudio/
